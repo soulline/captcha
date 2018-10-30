@@ -2,6 +2,7 @@ package controller
 
 import (
 	"captcha/model"
+	"captcha/recaptcha"
 	"github.com/dchest/captcha"
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
