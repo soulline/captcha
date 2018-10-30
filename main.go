@@ -1,7 +1,7 @@
 package main
 
 import (
-	"captchademo/router"
+	"captcha/router"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,7 +1,7 @@
 package router
 
 import (
-	"captchademo/controller"
+	"captcha/controller"
 	"github.com/gin-gonic/gin"
 )
 
